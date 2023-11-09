@@ -1,4 +1,5 @@
 # flask_5_tailwind
+https://www.loom.com/share/4e8529858426421f83977ca686bad443?sid=bf47551b-9f8a-4fe8-b12a-bcc1444b1b6d
 
 ## Design Process
 Just wanted to showcase my aquarium so I don't think anything special was needed.
