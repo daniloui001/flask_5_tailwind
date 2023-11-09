@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+    <link rel="stylesheet" type="text/css" href="app.css">
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Include the external CSS file -->
+    <meta charset="UTF-8">
+    <title>Aquarium Website</title>
+</head>
+<body class="bg-blue-900 text-green-400 font-serif">
+  <div class="aquarium p-8 bg-blue-300 bg-opacity-50 rounded-lg shadow-lg">
+    <h1 class="text-4xl font-bold text-center mb-4">Welcome to the Aquarium</h1>
+    <p class="text-lg text-center mb-8">Explore the depths of the ocean in this mesmerizing aquarium.</p>
+    <!-- Video Embed -->
+    <div class="aspect-w-16 aspect-h-9">
+      <video controls class="object-cover w-full h-full">
+        <source src="https://storage.googleapis.com/danihha504cdn/copy_204CAF53-50DD-4981-9B47-A2DBDFAB8329.MOV" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+</body>
+</html>
